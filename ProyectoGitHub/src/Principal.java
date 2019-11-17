@@ -1,7 +1,7 @@
 
 /** 
  * Ejercicio GitHub del tema 3
- * 
+ * Versión saul
  * Version: 1.0
  * Fecha creación: 04/12/2018
  * Copyright @author Camilo Juan
@@ -22,7 +22,7 @@ public class Principal {
 	 * Funcion principal
 	 */
 	public static void main(String[] args) {
-		boolean seguir = true;
+		boolean seguir = true; 
 		int opcionMenu = -1;
 
 		while (seguir) {
@@ -72,7 +72,9 @@ public class Principal {
 		System.out.println("22.- Ejercicio 22 (Sergi Cortés)");
 		System.out.println("30.- Salir");
 	}
-
+	public static void FuncionTema4Prog() {
+		//Estoy creando una metdo/función pero no entiendo lo que te refieres con el enunciado osea lo hago todo igual pero sin el codigo ese que dices que hemos coorregido
+	}
 	/*
 	 * Nos devuelve un valor valido de nuestro menú
 	 */
